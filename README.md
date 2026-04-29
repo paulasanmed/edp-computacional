@@ -18,7 +18,6 @@ Formulación variacional pesada y resolución algebraica:
 * **`Manual_Teorico_EDPs_FDM_FEM.pdf`:** Monografía analítica integral. Abarca desde la estabilidad espectral de Von Neumann hasta formulaciones variacionales fundamentadas en el Teorema de Lax-Milgram. 
 
 ## ⚙️ Requisitos de Ejecución
-* MATLAB R2021a o superior.
 * No requiere *toolboxes* adicionales (implementación y ensamblaje matricial construidos desde cero).
 
 ## 🚀 Uso
