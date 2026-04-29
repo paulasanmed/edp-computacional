@@ -22,5 +22,3 @@ Formulación variacional pesada y resolución algebraica:
 
 ## 🚀 Uso
 Ejecutar los scripts principales directamente desde la consola de MATLAB
->> main_fdm_parabolica_homogenea
->> main_fem_galerkin_1d
